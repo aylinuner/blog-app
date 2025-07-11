@@ -5,12 +5,19 @@ Bu projede Vue 3 ve Firebase Firestore kullanarak basit bir blog uygulaması gel
 ## Öğrendiklerim
 
 -Vue 3 Composition API kullanımı (ref, setup)
+
 -Vue Router ile sayfa yönlendirme (router.push, useRouter)
+
 -Firebase Firestore ile veri ekleme, listeleme ve silme
+
 -v-model, v-if, v-for gibi Vue direktiflerinin kullanımı
+
 -Form submit işlemleri ve @submit.prevent kullanımı
+
 -Public klasöründen svg dosyası kullanımı
+
 -Bileşen yapısı ve props ile veri aktarımı
+
 -Basit CSS tasarımı ile form ve listeleme görünümü
 
 ## Proje Kurulumu
